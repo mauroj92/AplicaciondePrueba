@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Calculadora de plazo fijo</string>
+
+    <string name="txv_correo">Correo electrónico</string>
+    <string name="txv_CUIT">CUIT</string>
+    <string name="txv_monto">Monto a invertir</string>
+
+    <string name="txv_cantidad_dias">Días seleccionados</string>
+
+    <string name="texto_check">Renovar automaticamente al vencimiento</string>
+    <string name="btn_hacer_plazo">HACER PLAZO FIJO</string>
+
+    <string name="mensajeCorrecto">Plazo fijo realizado. Recibirá $ %1$.2f al vecimiento!</string>
+    <string name="mensajeIncorrecto">COMPLETE TODOS LOS DATOS.</string>
+</resources>

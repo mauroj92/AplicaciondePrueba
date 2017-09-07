@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="techo1">5000</string>
+    <string name="techo2">99999</string>
+
+    <string name="dias">30</string>
+
+    <string name="tasa1">25</string>
+    <string name="tasa2">27.5</string>
+    <string name="tasa3">30</string>
+    <string name="tasa4">32.3</string>
+    <string name="tasa5">35</string>
+    <string name="tasa6">38.5</string>
+</resources>
